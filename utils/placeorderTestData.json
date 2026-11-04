@@ -1,0 +1,12 @@
+[
+  {
+    "usernameEnv": "USER_1_EMAIL",
+    "passwordEnv": "USER_1_PASSWORD",
+    "productName": "ZARA COAT 3"
+  },
+  {
+    "usernameEnv": "USER_2_EMAIL",
+    "passwordEnv": "USER_2_PASSWORD",
+    "productName": "ADIDAS ORIGINAL"
+  }
+]
